@@ -1,9 +1,15 @@
+using System;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
 using pavlovLab.Models;
 
 namespace to.Models
 {
     public class lab1Data
     {
+        public Guid Id { get; set; } = Guid.Empty;
+
         public string Product { get; set;}
         public string Material { get; set;}
         public int Content { get; set;}
