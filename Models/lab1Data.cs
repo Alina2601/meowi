@@ -1,9 +1,18 @@
+<<<<<<< HEAD
+=======
+using System;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
+>>>>>>> feature/Novruzova/ids
 using Alina.Models;
 
 namespace to.Models
 {
     public class lab1Data
     {
+        public Guid Id { get; set; } = Guid.Empty;
+
         public string Product { get; set;}
         public string Material { get; set;}
         public int Content { get; set;}
