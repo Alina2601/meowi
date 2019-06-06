@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace pavlovLab.Models
+namespace Alina.Models
 {
     public class BaseModelValidationResult
     {
