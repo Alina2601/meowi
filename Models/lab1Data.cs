@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
 using System;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
->>>>>>> feature/Novruzova/ids
 using Alina.Models;
 
 namespace to.Models

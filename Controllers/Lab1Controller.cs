@@ -8,8 +8,13 @@ namespace to.Controllers
    [Route("api/[controller]")]
    [ApiController]
    public class LabController : ControllerBase
-   {
-      private static IStorage<lab1Data> _memCache = new MemCache();
+    {
+        private IStorage<lab1Data> _memCache;
+
+        public LabController(IStorage<lab1Data> memCache)
+        {
+            _memCache = memCache;
+        }
 
         [HttpGet]
         public ActionResult<IEnumerable<lab1Data>> Get()
