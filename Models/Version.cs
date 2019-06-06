@@ -1,4 +1,4 @@
-namespace pavlovLab.Models
+namespace Alina.Models
 {
     public class Version
     {
