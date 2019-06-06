@@ -1,0 +1,14 @@
+D:\pavlov\lab1\bin\Debug\netcoreapp2.1\lab1.deps.json
+D:\pavlov\lab1\bin\Debug\netcoreapp2.1\lab1.runtimeconfig.json
+D:\pavlov\lab1\bin\Debug\netcoreapp2.1\lab1.runtimeconfig.dev.json
+D:\pavlov\lab1\bin\Debug\netcoreapp2.1\lab1.dll
+D:\pavlov\lab1\bin\Debug\netcoreapp2.1\lab1.pdb
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.csprojAssemblyReference.cache
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.csproj.CoreCompileInputs.cache
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.RazorAssemblyInfo.cache
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.RazorAssemblyInfo.cs
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.AssemblyInfoInputs.cache
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.AssemblyInfo.cs
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.RazorTargetAssemblyInfo.cache
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.dll
+D:\pavlov\lab1\obj\Debug\netcoreapp2.1\lab1.pdb

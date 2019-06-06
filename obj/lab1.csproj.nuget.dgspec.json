@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\pavlov\\lab1\\lab1.csproj": {}
+  },
+  "projects": {
+    "D:\\pavlov\\lab1\\lab1.csproj": {
+      "version": "0.0.2-rc.1",
+      "restore": {
+        "projectUniqueName": "D:\\pavlov\\lab1\\lab1.csproj",
+        "projectName": "labApp",
+        "projectPath": "D:\\pavlov\\lab1\\lab1.csproj",
+        "packagesPath": "C:\\Users\\Алина\\.nuget\\packages\\",
+        "outputPath": "D:\\pavlov\\lab1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Алина\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
