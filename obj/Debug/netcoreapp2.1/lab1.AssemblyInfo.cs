@@ -9,5 +9,5 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("https://t.me/maowi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyProductAttribute("Laba5")]
+[assembly: System.Reflection.AssemblyProductAttribute("Labs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab1")]

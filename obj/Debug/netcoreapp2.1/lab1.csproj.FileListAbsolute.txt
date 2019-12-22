@@ -40,4 +40,4 @@ d:\labs\obj\Debug\netcoreapp2.1\lab1.AssemblyInfo.cs
 d:\labs\obj\Debug\netcoreapp2.1\lab1.RazorTargetAssemblyInfo.cache
 d:\labs\obj\Debug\netcoreapp2.1\lab1.dll
 d:\labs\obj\Debug\netcoreapp2.1\lab1.pdb
-d:\labs\obj\Debug\netcoreapp2.1\GitVersionInformation_lab1_iffxu5gf.dpf.g.cs
+D:\labs\obj\Debug\netcoreapp2.1\GitVersionInformation_lab1_5hxa53y4.vyi.g.cs

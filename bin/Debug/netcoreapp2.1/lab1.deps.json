@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "lab1/1.0.0": {
+      "lab1/1.1.0": {
         "dependencies": {
           "GitVersionTask": "5.1.2",
           "Microsoft.AspNetCore.App": "2.1.1",
@@ -3207,7 +3207,7 @@
     }
   },
   "libraries": {
-    "lab1/1.0.0": {
+    "lab1/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
