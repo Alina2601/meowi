@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using to.Models;
 using Alina.Storage;
+using Serilog;
 namespace to.Controllers
 {
    [Route("api/[controller]")]
@@ -25,7 +26,10 @@ namespace to.Controllers
         [HttpGet("{id}")]
         public ActionResult<lab1Data> Get(Guid id)
         {
-            if (!_memCache.Has(id)) return NotFound("No such");
+            if (!_memCache.Has(id)){
+                 
+            Log.Error("Product not found");
+            } return NotFound("No such");
 
             return Ok(_memCache[id]);
         }

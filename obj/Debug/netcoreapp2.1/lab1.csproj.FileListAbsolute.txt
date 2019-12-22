@@ -35,9 +35,9 @@ d:\labs\obj\Debug\netcoreapp2.1\lab1.csprojAssemblyReference.cache
 d:\labs\obj\Debug\netcoreapp2.1\lab1.csproj.CoreCompileInputs.cache
 d:\labs\obj\Debug\netcoreapp2.1\lab1.RazorAssemblyInfo.cache
 d:\labs\obj\Debug\netcoreapp2.1\lab1.RazorAssemblyInfo.cs
-d:\labs\obj\Debug\netcoreapp2.1\GitVersionInformation_lab1_cxkpvf5c.tur.g.cs
 d:\labs\obj\Debug\netcoreapp2.1\lab1.AssemblyInfoInputs.cache
 d:\labs\obj\Debug\netcoreapp2.1\lab1.AssemblyInfo.cs
 d:\labs\obj\Debug\netcoreapp2.1\lab1.RazorTargetAssemblyInfo.cache
 d:\labs\obj\Debug\netcoreapp2.1\lab1.dll
 d:\labs\obj\Debug\netcoreapp2.1\lab1.pdb
+d:\labs\obj\Debug\netcoreapp2.1\GitVersionInformation_lab1_iffxu5gf.dpf.g.cs
