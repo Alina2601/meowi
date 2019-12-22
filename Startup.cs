@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Alina.Storage;
 using to.Models;
-
+using Serilog;
 namespace lab1
 {
     public class Startup
@@ -28,6 +28,7 @@ namespace lab1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            ConfigureLogger();
 
              switch (Configuration["Storage:Type"].ToStorageEnum())
             {
@@ -57,5 +58,15 @@ namespace lab1
             app.UseHttpsRedirection();
             app.UseMvc();
         }
+        private void ConfigureLogger()
+       {
+           var log = new LoggerConfiguration()
+               .WriteTo.Console()
+               .WriteTo.File("logs\\labs_log.log", rollingInterval: RollingInterval.Day)
+               .CreateLogger();
+ 
+           Log.Logger = log;
+       }
+
     }
 }
