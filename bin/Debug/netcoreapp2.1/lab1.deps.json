@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "e071b1a7c9d575b1b3d9ba6c9a1be1d9c6701ca2"
+    "signature": "c3e02111dd450658b0d580d6e67f623762d625d6"
   },
   "compilationOptions": {
     "defines": [
@@ -22,8 +22,9 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "lab1/0.0.4-rc.1": {
+      "lab1/0.1.0-Novruzova-gitversion.1+12": {
         "dependencies": {
+          "GitVersionTask": "5.1.2",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
@@ -35,6 +36,7 @@
           "lab1.dll": {}
         }
       },
+      "GitVersionTask/5.1.2": {},
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
       "Microsoft.NETCore.App/2.1.0": {
         "dependencies": {
@@ -3150,10 +3152,17 @@
     }
   },
   "libraries": {
-    "lab1/0.0.4-rc.1": {
+    "lab1/0.1.0-Novruzova-gitversion.1+12": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "GitVersionTask/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K5iXhB5N+b5DO+jcLgvo5CsQ2UcbAfpXP7Y6tUox0jw/RtgNEH2p5RvPlKS+OSsEVEAY0JV6BUXrtKmQKbp9rA==",
+      "path": "gitversiontask/5.1.2",
+      "hashPath": "gitversiontask.5.1.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",
