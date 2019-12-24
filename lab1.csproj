@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <Authors>Novruzova</Authors>
    <Company>https://t.me/maowi</Company>
-   <Product>Labs</Product>
+   <Product>Lab 7</Product>
    <PackageId>labApp</PackageId>
    </PropertyGroup>
 
